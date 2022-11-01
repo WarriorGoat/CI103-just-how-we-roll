@@ -61,8 +61,6 @@ function resetAll(){
 }
 
 
-
-
 /*******************
  * YOUR CODE BELOW *
  *******************/
@@ -70,23 +68,7 @@ function resetAll(){
 resetAll();
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-  
+ 
 
 
 /*******************
